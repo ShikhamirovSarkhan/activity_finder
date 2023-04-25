@@ -17,7 +17,8 @@ you defined in the project scope. Determine the specific inputs you will collect
 users, such as activity type, location, duration, difficulty level, and any other relevant
 factors.
 
-## Demo
+## High-level design
+
 
 ## Collaborators
 
