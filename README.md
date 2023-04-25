@@ -1,11 +1,11 @@
 # Activity finder
 
-# Overview
+## Overview
 
 The aim of this project is to create an activity finding application that suggests physical activities to users based on their preferences. The application will take user inputs and match them with suitable activities from a predefined list of physical activities that are scraped from the 
 website. 
 
-# Project setup
+## Project setup
 - [x] Collect a comprehensive list of physical activities that you want to suggest to users. This
 should be done by scraping data from the mentioned website.
 
@@ -17,6 +17,8 @@ you defined in the project scope. Determine the specific inputs you will collect
 users, such as activity type, location, duration, difficulty level, and any other relevant
 factors.
 
-# Demo
+## Demo
 
-# Collaborators
+## Collaborators
+
+[Eshgin Jafarov](https://github.com/Eshgin-jafar), [Eltun Babirzade](https://github.com/eltunbabirzade), [Jalal Mammadov](https://github.com/Jalal9316), [Sarkhan Shikhamirov](https://github.com/ShikhamirovSarkhan) have worked on this project equally.
