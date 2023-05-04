@@ -18,6 +18,7 @@ users, such as activity type, location, duration, difficulty level, and any othe
 factors.
 
 ## High-level design
+![My Image](https://github.com/ShikhamirovSarkhan/activity_finder/blob/f786ca3275adfad0991217b957df45a198c26a35/url_data/Activity_finder.png)
 
 
 ## Collaborators
